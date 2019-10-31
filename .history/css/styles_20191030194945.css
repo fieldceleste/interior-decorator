@@ -34,7 +34,7 @@ img{
     }  
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 550px) {
   body {
     background-color: lightgray;
   }
